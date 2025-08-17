@@ -16,5 +16,4 @@ FuzzIt is a **directory/file fuzzer** written in Go. It sends HTTP requests to a
 ```bash
 git clone https://github.com/sudebozkurt/FuzzIt.git
 cd fuzzit
-go build -o fuzzit main.go
 go run main.go -u https://target.com -txt wordlist.txt -s 50
