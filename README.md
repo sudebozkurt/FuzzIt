@@ -1,7 +1,7 @@
 
 **FuzzIt: When programs say ‘whatever’, chaos begins.** 
 
-## 📖 About / Hakkında  
+## About
 
 FuzzIt is a **directory/file fuzzer** written in Go. It sends HTTP requests to a target URL using a custom wordlist and reports the status codes. Useful for discovering hidden files, directories, and endpoints.  
 
@@ -11,7 +11,7 @@ FuzzIt is a **directory/file fuzzer** written in Go. It sends HTTP requests to a
 
 ---
 
-## ⚡ Installation
+## Installation
 
 ```bash
 git clone https://github.com/sudebozkurt/FuzzIt.git
